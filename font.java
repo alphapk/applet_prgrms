@@ -1,5 +1,5 @@
 
-import java .awt.*;
+import java.awt.*;
 import java.applet.*;
 // <applet code="font.class"width=500 height=500>     </applet>
 public class font extends Applet
